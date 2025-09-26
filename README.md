@@ -77,8 +77,8 @@ It provides home nursing, elderly sitting, non-emergency medical transport, psyc
 ---
 
 # Project Files  
-You can find the full project files here:  
-[Google Drive](https://drive.google.com/drive/folders/1OIA63tzoJTKyfj_Q51-uAZdsv76dxH_J)  
+- [Google Drive](https://drive.google.com/drive/folders/1OIA63tzoJTKyfj_Q51-uAZdsv76dxH_J)  
+- [Figma Design](https://www.figma.com/design/bOZRbv5r15DifpxPuKx0oF/%D8%B3%D9%86%D8%AF-%7C-Sand?node-id=0-1&t=r9n09XsLNAUAnhhc-1)  
 
 ---
 
