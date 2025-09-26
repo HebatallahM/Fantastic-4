@@ -1,68 +1,76 @@
-Fantastic-4 Team | UI\UX track DEPI 3
-# Sand | سند
+# Project Name  
+**Sand | سند**  
 
-**Sand** is an innovative platform for healthcare and social support services for seniors and their caregivers in Egypt.  
-It provides home nursing, elderly sitting, non-emergency medical transport, psychological support, and social activities — all under the supervision of trained professionals ensuring safety and privacy.
+---
 
-##  Goal
-Deliver a safe, reliable, and easy-to-use integrated care platform.
+# Project Idea  
+Sand is an innovative platform for healthcare and social support services for seniors and their caregivers in Egypt.  
+It provides home nursing, elderly sitting, non-emergency medical transport, psychological support, and social activities — all under the supervision of trained professionals ensuring safety and privacy.  
 
-## Features
-- On-demand services (nursing, elderly sitting, psychological support).  
-- Non-emergency medical transport with live tracking.  
-- Weekly and monthly social activities and trips.  
-- Flexible subscriptions and continuous service evaluation.  
+---
 
-## Status
- Currently in planning and early development stage.
+# Team Members (Fantastic-4)  
+- Abdulaziz Mohamad Ali Al Emam  
+- Ahmed Wagdy Hussein Abdel Fattah  
+- Amira Ibrahim Muhammed Badr  
+- Hebatallah Mohammed Ibrahim El Sayed  
 
-# سند - Sand
+---
 
-**سند** هو منصة مبتكرة للرعاية الصحية والاجتماعية لكبار السن ومن يرعاهم.  
-نوفر خدمات تمريض منزلي، جليس مسنين، نقل طبي غير طارئ، دعم نفسي، وأنشطة اجتماعية، تحت إشراف فريق متخصص يضمن الأمان والخصوصية.
+# Work Plan  
+1. **Research & Analysis**  
+   - Audience personas  
+   - Market needs assessment  
+2. **Visual Identity**  
+   - Logo design  
+   - Color palette & typography  
+3. **Main Designs**  
+   - Wireframes & UI screens  
+   - Posters & promotional materials  
+4. **Complementary Products**  
+   - Prototype & mobile app flows  
+5. **Review & Finalization**  
+   - Usability testing  
+   - Iterations based on feedback  
+6. **Final Presentation**  
+   - Demo & documentation  
 
-## الهدف
-تقديم رعاية متكاملة وآمنة عبر منصة واحدة سهلة الاستخدام.
+---
 
-## المميزات
-- خدمات عند الطلب (تمريض، جليس، دعم نفسي).  
-- نقل طبي غير طارئ بتتبع حي.  
-- رحلات وأنشطة اجتماعية دورية.  
-- اشتراكات مرنة وتقييم مستمر للخدمات.  
+# Roles & Responsibilities  
+- **Ahmed Wagdy Hussein** – UX Researcher  
+  Leads research, ensures alignment with user needs.  
 
-## الحالة
-المشروع في مرحلة التخطيط والتطوير الأولي.
+- **Amira Ibrahim Muhammed** – UX Designer & Information Architect  
+  Designs seamless experiences and organizes content.  
 
-Google Drive:
-https://drive.google.com/drive/folders/1OIA63tzoJTKyfj_Q51-uAZdsv76dxH_J
+- **Hebatallah Mohammed Ibrahim** – Project Manager, UI Designer & Prototype Designer  
+  Manages workflow, builds user interface and prototypes.  
 
-Team Members:
-Abdulaziz Mohamad Ali Al Emam
+- **Abdulaziz Mohamad Ali Al Emam** – Usability Tester & Documentation Lead  
+  Tests usability, handles documentation and presentations.  
 
-Ahmed Wagdy Hussein Abdel Fattah
+---
 
-Amira Ibrahim Muhammed Badr
+# Success Criteria (KPIs)  
+- Increased number of active users adopting the application.  
+- Providing a **humanitarian, valuable, and supportive service** to seniors and caregivers.  
+- High user satisfaction rate through continuous feedback.  
+- Building trust and ensuring privacy in all services.  
 
-Hebatallah Mohammed Ibrahim El Sayed
+---
 
-# 👥 Team Members roles:-
+# Instructor  
+**Eng. Mohamed Kamar**  
 
-- **أحمد وجدي حسين**  
-  - **مدير المشروع وباحث تجربة المستخدم (UX Researcher)**  
-  - يقود التخطيط الشامل للمشروع  
-  - يضمن توافق جميع الجوانب مع احتياجات المستخدمين من خلال البحث الدقيق  
+---
 
-- **أميرة إبراهيم محمد**  
-  - **مصممة تجربة المستخدم (UX Designer) ومهندسة معلومات (Information Architect)**  
-  - تركز على تصميم تجربة سلسة وبديهية للمستخدمين  
-  - تنظم المعلومات بشكل فعال لسهولة الوصول  
+# Project Files  
+You can find the full project files here:  
+👉 [Google Drive Link](https://drive.google.com/drive/folders/1OIA63tzoJTKyfj_Q51-uAZdsv76dxH_J)  
 
-- **هبة الله محمد إبراهيم**  
-  - **مصممة واجهة المستخدم (UI Designer) ومصممة نماذج أولية (Prototype Designer)**  
-  - مسؤولة عن المظهر الجمالي والتفاعل المرئي للمنصة  
-  - تضمن واجهة جذابة وسهلة الاستخدام  
+---
 
-- **عبد العزيز محمد علي**  
-  - **مختبر قابلية الاستخدام (Usability Tester) ومسؤول التوثيق والعروض التقديمية (Documentation & Presentation)**  
-  - يختبر كفاءة وسهولة استخدام المنصة من خلال التجارب المتكررة  
-  - يتولى توثيق المشروع وإعداد العروض التقديمية
+# License  
+
+---
