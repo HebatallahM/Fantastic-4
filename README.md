@@ -52,11 +52,11 @@ It provides home nursing, elderly sitting, non-emergency medical transport, psyc
 - **Ahmed Wagdy Hussein** – UX Researcher  
   Leads planning and ensures alignment with user needs through research.  
 
-- **Amira Ibrahim Muhammed** – UX Designer & Information Architect  
-  Focuses on seamless user experience design and effective information organization.  
+- **Amira Ibrahim Muhammed** – UI Designer & Prototype Designer
+Responsible for visual aesthetics, UI interactions, and attractive, user-friendly interfaces.
 
-- **Hebatallah Mohammed Ibrahim** – Project Manager, UI Designer & Prototype Designer  
-  Responsible for visual aesthetics, UI interactions, and attractive, user-friendly interfaces.  
+- **Hebatallah Mohammed Ibrahim** – Project Manager, UX Designer & Information Architect
+Focuses on seamless user experience design and effective information organization.
 
 - **Abdulaziz Mohamad Ali Al Emam** – Usability Tester & Documentation/Presentation Lead  
   Tests usability, documents project progress, and prepares presentations.  
